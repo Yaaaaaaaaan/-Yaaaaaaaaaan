@@ -6,4 +6,4 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaaaaaaaaan)](https://github.com/Yaaaaaaaaan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaaaaaaaaan&theme=shadow_green")](https://github.com/Yaaaaaaaaan/github-readme-stats)
